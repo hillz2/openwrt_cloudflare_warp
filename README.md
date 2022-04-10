@@ -63,3 +63,8 @@ config route 'route_bimatri' # This configuration is optional\
 10. Login to Luci WebUI. Go to Network > Interfaces and connect your Cloudflare Interface, if you're connected successfully, your Cloudflare interface should look like this:
 
 ![enter image description here](https://i.ibb.co/C685QtH/2022-04-10-192925-919x143-scrot.png) 
+
+Now you should be able to access blocked websites like reddit.
+
+
+Reference: https://www.reddit.com/r/openwrt/comments/kgk5r1/comment/ggfqvhe/?utm_source=share&utm_medium=web2x&context=3
