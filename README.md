@@ -55,7 +55,8 @@ config route 'route_wireguard'\
 \
 config route 'route_bimatri' # This configuration is optional\
 &nbsp;&nbsp;&nbsp;&nbsp;option interface 'HiLink' # Match this with the name of your hilink interface, mine is 'HiLink'\
-&nbsp;&nbsp;&nbsp;&nbsp;option target '103.10.66.227' # This is the IP of bima.tri.co.id\
+&nbsp;&nbsp;&nbsp;&nbsp;option target '103.10.66.0/24' # This is the IP of bima.tri.co.id\
+&nbsp;&nbsp;&nbsp;&nbsp;option option netmask '255.255.255.0'
 &nbsp;&nbsp;&nbsp;&nbsp;option gateway '192.168.8.1' # This is the HiLink IP on my modem\
 &nbsp;&nbsp;&nbsp;&nbsp;option metric '1024'
 
