@@ -67,6 +67,6 @@ config route 'route_bimatri' # This configuration is optional\
 Now you should be able to access blocked websites like reddit.
 
 
-References: 
+References: \
 https://www.reddit.com/r/openwrt/comments/kgk5r1/comment/ggfqvhe/?utm_source=share&utm_medium=web2x&context=3 \
 https://openwrt.org/docs/guide-user/network/routing/routes_configuration
