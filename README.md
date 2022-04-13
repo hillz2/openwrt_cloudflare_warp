@@ -65,6 +65,10 @@ config route 'route_bimatri' # This configuration is optional\
 
 ![enter image description here](https://i.ibb.co/C685QtH/2022-04-10-192925-919x143-scrot.png) 
 
+Your routing table should look like this:
+
+![enter image description here](https://i.ibb.co/ysXtCtg/2022-04-13-144539-590x140-scrot.png) 
+
 Now you should be able to access blocked websites like reddit.
 
 
